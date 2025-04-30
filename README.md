@@ -1,0 +1,1 @@
+The notebooks "general_debates", "speeches", and "tweets" create CSVs from four different web sources. The CSVs that are output from these notebooks are also included in this repository. The "tsa" notebook performs three time series analysis techniques: a recurrent neural network, an aotoregressive integrated moving average, and a polynomial regression.
